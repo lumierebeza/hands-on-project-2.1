@@ -1,0 +1,29 @@
+body {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+  }
+.container{
+text-align:center;
+padding: 10px;
+margin: 20px auto;
+max-width: 200px;
+border: 1px solid red;
+background: rgb(164, 132, 212);
+font-size: medium;
+font-weight: bold;
+}
+
+#convertButton{
+    border-radius: 12%;
+    background: rgb(108, 156, 108);
+    color: white;
+}
+#convertButton:hover{
+    background-color: rgb(158, 68, 104);
+}
+
+#result{
+    font-weight: bold;
+    font-size:small
+}
